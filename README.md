@@ -19,4 +19,6 @@ Create a seperate Virtual environment (Not must, but recommended). <br>
 1- git clone https://github.com/sandeepk-480/Filter_Api.git<br>
 2- cd Filter_Api <br>
 3- pip install -r req.txt <br>
-4- python manage.py runserver <br>
+4- Update .env file according to your database, than proceed to next command <br>
+5- python manage.py loaddata backup.json <br>
+6- python manage.py runserver <br>
