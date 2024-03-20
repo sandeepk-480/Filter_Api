@@ -16,7 +16,7 @@ How to Use???<br>
 Open any of your code editor, like vs code or pycharm.<br>
 open Terminal and run this commands-<br>
 Create a seperate Virtual environment (Not must, but recommended). <br>
-1- git clone https://github.com/sandeepk-480/Authentication-Project-Assign-.git <br>
-2- cd Authentication-Project-Assign <br>
-3- pip install -r requirements.txt <br>
+1- git clone https://github.com/sandeepk-480/Filter_Api.git<br>
+2- cd Filter_Api <br>
+3- pip install -r req.txt <br>
 4- python manage.py runserver <br>
